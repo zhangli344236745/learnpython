@@ -1,7 +1,7 @@
 import struct
 import json
 
-info = b"hello world"
+info = b"test.txt"
 print(info)
 print(type(info))
 print(len(info))

@@ -2,11 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b939f1d3-efe6-488f-a190-4a9f1d173870" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter1/structs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/creating_a_multiplayer_game/hello.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/creating_a_multiplayer_game/pack_client.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/creating_a_multiplayer_game/pack_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ciphers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ciphers/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ciphers/xor_cipher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creating_a_multiplayer_game/mytext.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creating_a_multiplayer_game/receive_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creating_a_multiplayer_game/send_file.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/sock_http.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/sock_http.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/structs.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/structs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/thread_cls_intro.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/thread_cls_intro.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1/thread_fn_intro.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/thread_fn_intro.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create_tcp_and_up_sockets/select_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/create_tcp_and_up_sockets/select_client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creating_a_multiplayer_game/pygame_intro.py" beforeDir="false" afterPath="$PROJECT_DIR$/creating_a_multiplayer_game/pygame_intro.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creating_a_multiplayer_game/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/creating_a_multiplayer_game/server.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,99 +23,43 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="learnpython" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter1/structs.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/creating_a_multiplayer_game/pack_server.py">
+        <entry file="file://$PROJECT_DIR$/creating_a_multiplayer_game/pygame_intro.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="97">
+              <caret line="102" column="27" selection-start-line="102" selection-start-column="27" selection-end-line="102" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/creating_a_multiplayer_game/pack_client.py">
+        <entry file="file://$PROJECT_DIR$/creating_a_multiplayer_game/server.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1298">
+              <caret line="59" column="19" selection-start-line="59" selection-start-column="19" selection-end-line="59" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/creating_a_multiplayer_game/fhello.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/creating_a_multiplayer_game/hello.txt">
+        <entry file="file://$PROJECT_DIR$/creating_an_advanced_gui_chatroom/json_server.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="308">
+              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/creating_a_multiplayer_game/headers_server.py">
+        <entry file="file://$PROJECT_DIR$/creating_an_advanced_gui_chatroom/json_client.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/creating_an_advanced_gui_chatroom/pickle_server.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="22" column="35" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/creating_a_multiplayer_game/headers_client.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/creating_an_advanced_gui_chatroom/pickle_client.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/creating_a_terminal_chatroom/client.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="463">
-              <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+            <state relative-caret-position="88">
+              <caret line="4" column="65" selection-start-line="4" selection-start-column="65" selection-end-line="4" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -119,6 +72,12 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>my_listbox</find>
+      <find>broadcast_message</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -149,14 +108,29 @@
         <option value="$PROJECT_DIR$/creating_a_multiplayer_game/hello.txt" />
         <option value="$PROJECT_DIR$/creating_a_multiplayer_game/pack_client.py" />
         <option value="$PROJECT_DIR$/creating_a_multiplayer_game/pack_server.py" />
+        <option value="$PROJECT_DIR$/creating_a_basic_gui_chatroom/server.py" />
+        <option value="$PROJECT_DIR$/creating_a_basic_gui_chatroom/client.py" />
+        <option value="$PROJECT_DIR$/chapter1/sock_http.py" />
+        <option value="$PROJECT_DIR$/create_tcp_and_up_sockets/select_server.py" />
+        <option value="$PROJECT_DIR$/create_tcp_and_up_sockets/select_client.py" />
+        <option value="$PROJECT_DIR$/chapter1/thread_fn_intro.py" />
+        <option value="$PROJECT_DIR$/chapter1/thread_cls_intro.py" />
+        <option value="$PROJECT_DIR$/creating_an_advanced_gui_chatroom/server.py" />
+        <option value="$PROJECT_DIR$/creating_an_advanced_gui_chatroom/client.py" />
+        <option value="$PROJECT_DIR$/creating_a_multiplayer_game/pygame_intro.py" />
+        <option value="$PROJECT_DIR$/creating_a_multiplayer_game/server.py" />
+        <option value="$PROJECT_DIR$/ciphers/test.txt" />
+        <option value="$PROJECT_DIR$/ciphers/xor_cipher.py" />
+        <option value="$PROJECT_DIR$/creating_a_multiplayer_game/receive_file.py" />
+        <option value="$PROJECT_DIR$/creating_a_multiplayer_game/send_file.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="411" />
-    <option name="y" value="22" />
-    <option name="width" value="965" />
-    <option name="height" value="786" />
+    <option name="x" value="630" />
+    <option name="y" value="47" />
+    <option name="width" value="1065" />
+    <option name="height" value="691" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -166,7 +140,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -174,35 +147,28 @@
               <item name="learnpython" type="b2602c69:ProjectViewProjectNode" />
               <item name="learnpython" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="learnpython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learnpython" type="462c0819:PsiDirectoryNode" />
-              <item name="creating_a_multiplayer_game" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learnpython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/creating_a_basic_gui_chatroom" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/creating_a_multiplayer_game" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\mysite\pythonenvs\learnpython\creating_a_basic_gui_chatroom" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\mysite\pythonenvs\learnpython" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\mysite\pythonenvs\learnpython\creating_a_multiplayer_game" />
+      <recent name="D:\mysite\pythonenvs\learnpython\creating_a_basic_gui_chatroom" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -217,8 +183,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pack_server">
-    <configuration name="pack_client" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.receive_file">
+    <configuration name="pygame_intro" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="learnpython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -231,7 +197,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/creating_a_multiplayer_game/pack_client.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/creating_a_multiplayer_game/pygame_intro.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -240,7 +206,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pack_server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="receive_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="learnpython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -253,7 +219,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/creating_a_multiplayer_game/pack_server.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/creating_a_multiplayer_game/receive_file.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -262,7 +228,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="struct" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="send_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="learnpython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -270,12 +236,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/creating_a_multiplayer_game" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\mysite\pythonenvs\learnpython\chapter1\structs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/creating_a_multiplayer_game/send_file.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -284,7 +250,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="structs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="learnpython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -292,12 +258,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/creating_a_multiplayer_game" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter1/structs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/creating_a_multiplayer_game/server.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -306,7 +272,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tkinter_intro" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="xor_cipher" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="learnpython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -314,12 +280,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/creating_a_basic_gui_chatroom" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ciphers" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/creating_a_basic_gui_chatroom/tkinter_intro.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ciphers/xor_cipher.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -330,11 +296,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.pack_client" />
-        <item itemvalue="Python.pack_server" />
-        <item itemvalue="Python.structs" />
-        <item itemvalue="Python.struct" />
-        <item itemvalue="Python.tkinter_intro" />
+        <item itemvalue="Python.receive_file" />
+        <item itemvalue="Python.send_file" />
+        <item itemvalue="Python.xor_cipher" />
+        <item itemvalue="Python.server" />
+        <item itemvalue="Python.pygame_intro" />
       </list>
     </recent_temporary>
   </component>
@@ -351,12 +317,17 @@
       <workItem from="1675603664996" duration="8136000" />
       <workItem from="1675693084216" duration="6160000" />
       <workItem from="1675784498745" duration="1576000" />
-      <workItem from="1675867228767" duration="3934000" />
+      <workItem from="1675867228767" duration="4029000" />
+      <workItem from="1675953627643" duration="4702000" />
+      <workItem from="1676212118010" duration="2726000" />
+      <workItem from="1676299674134" duration="3900000" />
+      <workItem from="1676561504306" duration="7259000" />
+      <workItem from="1677768939632" duration="6852000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19806000" />
+    <option name="totallyTimeSpent" value="45340000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -369,23 +340,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21860817" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49878347" visible="true" weight="0.1732224" />
+      <window_info id="Structure" order="1" sideWeight="0.50121653" side_tool="true" weight="0.20574887" />
+      <window_info id="Favorites" order="2" sideWeight="0.502193" side_tool="true" weight="0.15355521" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30327868" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4262295" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32897195" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3262295" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49924356" weight="0.4262295" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32977098" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.352459" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.4262295" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.26542056" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3295082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -401,45 +371,80 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/creating_a_multiplayer_game/headers_server.py</url>
-          <line>16</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/creating_a_multiplayer_game/headers_server.py</url>
-          <line>17</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/creating_a_multiplayer_game/pack_server.py</url>
           <line>11</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/creating_a_multiplayer_game/pack_server.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/creating_a_multiplayer_game/pack_server.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/creating_a_basic_gui_chatroom/client.py</url>
+          <line>141</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/creating_a_basic_gui_chatroom/client.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/creating_an_advanced_gui_chatroom/client.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/creating_an_advanced_gui_chatroom/client.py</url>
+          <line>119</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/creating_an_advanced_gui_chatroom/client.py</url>
+          <line>159</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/learnpython$pack_client.coverage" NAME="pack_client Coverage Results" MODIFIED="1675872693230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/creating_a_multiplayer_game" />
+    <SUITE FILE_PATH="coverage/learnpython$pack_client.coverage" NAME="pack_client Coverage Results" MODIFIED="1675872737438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/creating_a_multiplayer_game" />
     <SUITE FILE_PATH="coverage/learnpython$udp_client.coverage" NAME="udp_client Coverage Results" MODIFIED="1675609466477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/create_tcp_and_up_sockets" />
-    <SUITE FILE_PATH="coverage/learnpython$structs.coverage" NAME="structs Coverage Results" MODIFIED="1675870384308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter1" />
-    <SUITE FILE_PATH="coverage/learnpython$json_server.coverage" NAME="json_server Coverage Results" MODIFIED="1675697865335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/creating_an_advanced_gui_chatroom" />
     <SUITE FILE_PATH="coverage/learnpython$struct.coverage" NAME="struct Coverage Results" MODIFIED="1675869447528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter1" />
-    <SUITE FILE_PATH="coverage/learnpython$headers_server.coverage" NAME="headers_server Coverage Results" MODIFIED="1675699136962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/creating_a_multiplayer_game" />
-    <SUITE FILE_PATH="coverage/learnpython$pack_server.coverage" NAME="pack_server Coverage Results" MODIFIED="1675872689485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/creating_a_multiplayer_game" />
-    <SUITE FILE_PATH="coverage/learnpython$cuda.coverage" NAME="cuda Coverage Results" MODIFIED="1675608070900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter1" />
-    <SUITE FILE_PATH="coverage/learnpython$json_client.coverage" NAME="json_client Coverage Results" MODIFIED="1675697885024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/creating_an_advanced_gui_chatroom" />
-    <SUITE FILE_PATH="coverage/learnpython$server.coverage" NAME="server Coverage Results" MODIFIED="1675694772465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/creating_a_terminal_chatroom" />
-    <SUITE FILE_PATH="coverage/learnpython$headers_client.coverage" NAME="headers_client Coverage Results" MODIFIED="1675699143213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/creating_a_multiplayer_game" />
-    <SUITE FILE_PATH="coverage/learnpython$tcp_client.coverage" NAME="tcp_client Coverage Results" MODIFIED="1675608864638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter1/create_tcp_and_up_sockets" />
-    <SUITE FILE_PATH="coverage/learnpython$chat_server.coverage" NAME="chat_server Coverage Results" MODIFIED="1675610464912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/create_tcp_and_up_sockets" />
-    <SUITE FILE_PATH="coverage/learnpython$client.coverage" NAME="client Coverage Results" MODIFIED="1675694780714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/creating_a_terminal_chatroom" />
-    <SUITE FILE_PATH="coverage/learnpython$tcp_server.coverage" NAME="tcp_server Coverage Results" MODIFIED="1675608840402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter1/create_tcp_and_up_sockets" />
+    <SUITE FILE_PATH="coverage/learnpython$json_client.coverage" NAME="json_client Coverage Results" MODIFIED="1676645450998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/creating_an_advanced_gui_chatroom" />
+    <SUITE FILE_PATH="coverage/learnpython$xor_cipher.coverage" NAME="xor_cipher Coverage Results" MODIFIED="1677773547444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ciphers" />
+    <SUITE FILE_PATH="coverage/learnpython$headers_client.coverage" NAME="headers_client Coverage Results" MODIFIED="1676645465781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/creating_a_multiplayer_game" />
+    <SUITE FILE_PATH="coverage/learnpython$pygame_intro.coverage" NAME="pygame_intro Coverage Results" MODIFIED="1677770171636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/creating_a_multiplayer_game" />
+    <SUITE FILE_PATH="coverage/learnpython$client.coverage" NAME="client Coverage Results" MODIFIED="1676643871763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/creating_an_advanced_gui_chatroom" />
     <SUITE FILE_PATH="coverage/learnpython$pickle_server.coverage" NAME="pickle_server Coverage Results" MODIFIED="1675697803124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/creating_an_advanced_gui_chatroom" />
-    <SUITE FILE_PATH="coverage/learnpython$tkinter_intro.coverage" NAME="tkinter_intro Coverage Results" MODIFIED="1675785205331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/creating_a_basic_gui_chatroom" />
+    <SUITE FILE_PATH="coverage/learnpython$thread_cls_intro.coverage" NAME="thread_cls_intro Coverage Results" MODIFIED="1676561653025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter1" />
     <SUITE FILE_PATH="coverage/learnpython$udp_server.coverage" NAME="udp_server Coverage Results" MODIFIED="1675609443299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/create_tcp_and_up_sockets" />
-    <SUITE FILE_PATH="coverage/learnpython$chat_client.coverage" NAME="chat_client Coverage Results" MODIFIED="1675610479693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/create_tcp_and_up_sockets" />
+    <SUITE FILE_PATH="coverage/learnpython$receive_file.coverage" NAME="receive_file Coverage Results" MODIFIED="1677858287994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/creating_a_multiplayer_game" />
     <SUITE FILE_PATH="coverage/learnpython$thread_intro.coverage" NAME="thread_intro Coverage Results" MODIFIED="1675611124715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/creating_a_terminal_chatroom" />
     <SUITE FILE_PATH="coverage/learnpython$pickle_client.coverage" NAME="pickle_client Coverage Results" MODIFIED="1675697810487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/creating_an_advanced_gui_chatroom" />
+    <SUITE FILE_PATH="coverage/learnpython$structs.coverage" NAME="structs Coverage Results" MODIFIED="1675870384308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter1" />
+    <SUITE FILE_PATH="coverage/learnpython$json_server.coverage" NAME="json_server Coverage Results" MODIFIED="1676644897648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/creating_an_advanced_gui_chatroom" />
+    <SUITE FILE_PATH="coverage/learnpython$headers_server.coverage" NAME="headers_server Coverage Results" MODIFIED="1676645459078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/creating_a_multiplayer_game" />
+    <SUITE FILE_PATH="coverage/learnpython$pack_server.coverage" NAME="pack_server Coverage Results" MODIFIED="1675872724928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/creating_a_multiplayer_game" />
+    <SUITE FILE_PATH="coverage/learnpython$cuda.coverage" NAME="cuda Coverage Results" MODIFIED="1675608070900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter1" />
+    <SUITE FILE_PATH="coverage/learnpython$select_server.coverage" NAME="select_server Coverage Results" MODIFIED="1676303142852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/create_tcp_and_up_sockets" />
+    <SUITE FILE_PATH="coverage/learnpython$server.coverage" NAME="server Coverage Results" MODIFIED="1677771467944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/creating_a_multiplayer_game" />
+    <SUITE FILE_PATH="coverage/learnpython$tcp_client.coverage" NAME="tcp_client Coverage Results" MODIFIED="1675608864638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter1/create_tcp_and_up_sockets" />
+    <SUITE FILE_PATH="coverage/learnpython$sock_http.coverage" NAME="sock_http Coverage Results" MODIFIED="1676300378279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter1" />
+    <SUITE FILE_PATH="coverage/learnpython$thread_fn_intro.coverage" NAME="thread_fn_intro Coverage Results" MODIFIED="1676303852406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter1" />
+    <SUITE FILE_PATH="coverage/learnpython$server__1_.coverage" NAME="server (1) Coverage Results" MODIFIED="1676215542130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/creating_an_advanced_gui_chatroom" />
+    <SUITE FILE_PATH="coverage/learnpython$select_client.coverage" NAME="select_client Coverage Results" MODIFIED="1676303148110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/create_tcp_and_up_sockets" />
+    <SUITE FILE_PATH="coverage/learnpython$chat_server.coverage" NAME="chat_server Coverage Results" MODIFIED="1675610464912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/create_tcp_and_up_sockets" />
+    <SUITE FILE_PATH="coverage/learnpython$tcp_server.coverage" NAME="tcp_server Coverage Results" MODIFIED="1675608840402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter1/create_tcp_and_up_sockets" />
+    <SUITE FILE_PATH="coverage/learnpython$tkinter_intro.coverage" NAME="tkinter_intro Coverage Results" MODIFIED="1675785205331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/creating_a_basic_gui_chatroom" />
+    <SUITE FILE_PATH="coverage/learnpython$send_file.coverage" NAME="send_file Coverage Results" MODIFIED="1677858280218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/creating_a_multiplayer_game" />
+    <SUITE FILE_PATH="coverage/learnpython$chat_client.coverage" NAME="chat_client Coverage Results" MODIFIED="1675610479693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/create_tcp_and_up_sockets" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/create_tcp_and_up_sockets/tcp_client.py">
@@ -498,30 +503,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/creating_a_terminal_chatroom/server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1210">
-          <caret line="55" selection-start-line="55" selection-end-line="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/creating_a_basic_gui_chatroom/server.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/creating_an_advanced_gui_chatroom/json_server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="44" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/creating_an_advanced_gui_chatroom/json_client.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/creating_a_basic_gui_chatroom/tkinter_intro.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="302">
@@ -542,9 +523,12 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/creating_a_multiplayer_game/fhello.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/chapter1/structs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
+        <state relative-caret-position="374">
           <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
@@ -552,38 +536,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/creating_a_multiplayer_game/headers_client.py">
+    <entry file="file://$PROJECT_DIR$/creating_a_multiplayer_game/pack_server.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/creating_a_multiplayer_game/headers_server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
+        <state relative-caret-position="484">
           <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/creating_a_terminal_chatroom/client.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="463">
-          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/creating_an_advanced_gui_chatroom/pickle_client.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/creating_an_advanced_gui_chatroom/pickle_server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="22" column="35" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -594,12 +553,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/creating_a_multiplayer_game/fhello.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/creating_an_advanced_gui_chatroom/pickle_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="35" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creating_an_advanced_gui_chatroom/pickle_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creating_a_terminal_chatroom/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/creating_a_multiplayer_game/pack_client.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
+        <state relative-caret-position="214">
           <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
@@ -607,13 +584,170 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/creating_a_multiplayer_game/pack_server.py">
+    <entry file="file://$PROJECT_DIR$/chapter1/sock_http.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        <state relative-caret-position="154">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/create_tcp_and_up_sockets/select_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter1/thread_fn_intro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="56" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/create_tcp_and_up_sockets/select_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter1/thread_cls_intro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creating_an_advanced_gui_chatroom/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1386">
+          <caret line="132" column="119" selection-start-line="132" selection-start-column="108" selection-end-line="132" selection-end-column="119" />
+          <folding>
+            <element signature="e#45#84#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creating_a_basic_gui_chatroom/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creating_an_advanced_gui_chatroom/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2102">
+          <caret line="130" lean-forward="true" selection-start-line="130" selection-end-line="130" />
+          <folding>
+            <element signature="e#37#76#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creating_a_multiplayer_game/headers_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creating_a_multiplayer_game/headers_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creating_an_advanced_gui_chatroom/json_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creating_an_advanced_gui_chatroom/json_client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="65" selection-start-line="4" selection-start-column="65" selection-end-line="4" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ciphers/encrypt.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ciphers/decrypt.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ciphers/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creating_a_terminal_chatroom/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creating_a_multiplayer_game/receive_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creating_a_multiplayer_game/received_file">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creating_a_multiplayer_game/send_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creating_a_multiplayer_game/mytext.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ciphers/xor_cipher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2354">
+          <caret line="107" selection-start-line="107" selection-end-line="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creating_a_basic_gui_chatroom/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="89" column="22" selection-start-line="89" selection-start-column="22" selection-end-line="89" selection-end-column="22" />
+          <folding>
+            <element signature="e#27#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creating_a_multiplayer_game/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1298">
+          <caret line="59" column="19" selection-start-line="59" selection-start-column="19" selection-end-line="59" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creating_a_multiplayer_game/pygame_intro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="102" column="27" selection-start-line="102" selection-start-column="27" selection-end-line="102" selection-end-column="27" />
         </state>
       </provider>
     </entry>
