@@ -2,7 +2,7 @@ from __future__ import annotations
 from enum import Enum
 from typing import List,NamedTuple,Callable,Optional
 import random
-from search.generic_search import Node,dfs,node_to_path,bfs
+from search.generic_search import Node,dfs,node_to_path,bfs,astar
 from math import sqrt
 
 class Cell(str,Enum):
@@ -72,7 +72,9 @@ if __name__ == "__main__":
     maze: Maze = Maze()
     print(maze)
     #solution1:Optional[Node[MazeLocation]] = dfs(maze.start,maze.goal_test,maze.successors)
-    solution1: Optional[Node[MazeLocation]] = bfs(maze.start, maze.goal_test, maze.successors)
+    #solution1: Optional[Node[MazeLocation]] = bfs(maze.start, maze.goal_test, maze.successors)
+    distance: Callable[[MazeLocation],float] = euclidean_distance(maze.goal)
+    solution1: Optional[Node[MazeLocation]] = astar(maze.start, maze.goal_test, maze.successors,distance)
     if solution1 is None:
         print("no soluation found")
     else:
