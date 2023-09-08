@@ -30,7 +30,7 @@ class ServerSentEvent(tornado.web.RequestHandler):
 
 def make_app():
     return tornado.web.Application([
-        (r"/sse/data",ServerSentEvent),
+        (r"/sse/data/",ServerSentEvent),
     ])
 
 if __name__ == "__main__":
