@@ -4,23 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b939f1d3-efe6-488f-a190-4a9f1d173870" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter1/beautiful.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter1/crypto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter1/huffman.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter1/markov.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter1/mat1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter1/svd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/streamlitlearn/pages/about.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/streamlitlearn/pages/file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/streamlitlearn/stream1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/streamlitlearn/stream2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/streamlitlearn/stream3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/learnpython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/learnpython.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="b939f1d3-efe6-488f-a190-4a9f1d173870" name="Default Changelist" comment="stream learn">
+      <change afterPath="$PROJECT_DIR$/chapter1/codes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter1/create_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter1/mro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter1/otp_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter1/type_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cythondemo/example.pyx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cythondemo/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cythondemo/test_ext.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opencvlearn/boy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opencvlearn/opencvtest1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opencvlearn/opencvtest2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opencvlearn/opencvtest3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/flagged/log.csv" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/flagged/log.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/sse_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/sse_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -251,7 +249,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/mysite/djangoproject/django-vue-admin/backend&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/mysite/pythonenvs/learnpython/opencvlearn&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -261,16 +259,17 @@
   }
 }</component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\mysite\pythonenvs\learnpython" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\mysite\pythonenvs\learnpython\opencvlearn" />
       <recent name="D:\mysite\pythonenvs\learnpython\creating_a_multiplayer_game" />
       <recent name="D:\mysite\pythonenvs\learnpython\creating_a_basic_gui_chatroom" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\mysite\pythonenvs\learnpython" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.svd">
-    <configuration name="beautiful" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.opencvtest3">
+    <configuration name="codes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learnpython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -283,7 +282,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter1/beautiful.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter1/codes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -292,7 +291,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="crypto" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="create_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learnpython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -305,7 +304,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter1/crypto.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter1/create_data.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -314,7 +313,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="gradio_test1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="opencvtest1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learnpython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -322,12 +321,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/opencvlearn" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter1/gradio_test1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/opencvlearn/opencvtest1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -336,7 +335,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="markov" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="opencvtest2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learnpython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -344,12 +343,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/opencvlearn" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter1/markov.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/opencvlearn/opencvtest2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -358,7 +357,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="svd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="opencvtest3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learnpython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -366,12 +365,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/opencvlearn" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter1/svd.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/opencvlearn/opencvtest3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -382,11 +381,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.svd" />
-        <item itemvalue="Python.markov" />
-        <item itemvalue="Python.crypto" />
-        <item itemvalue="Python.gradio_test1" />
-        <item itemvalue="Python.beautiful" />
+        <item itemvalue="Python.opencvtest3" />
+        <item itemvalue="Python.opencvtest2" />
+        <item itemvalue="Python.opencvtest1" />
+        <item itemvalue="Python.create_data" />
+        <item itemvalue="Python.codes" />
       </list>
     </recent_temporary>
   </component>
@@ -431,7 +430,13 @@
       <workItem from="1693492692755" duration="3787000" />
       <workItem from="1693575777622" duration="127000" />
       <workItem from="1693926507842" duration="505000" />
-      <workItem from="1694159359641" duration="4392000" />
+      <workItem from="1694159359641" duration="4719000" />
+      <workItem from="1695221871811" duration="1258000" />
+      <workItem from="1695569408036" duration="2095000" />
+      <workItem from="1696951631386" duration="1207000" />
+      <workItem from="1698540607801" duration="1493000" />
+      <workItem from="1698542355888" duration="2565000" />
+      <workItem from="1699802910403" duration="1818000" />
     </task>
     <task id="LOCAL-00001" summary="tornado sse">
       <created>1684684988016</created>
@@ -440,7 +445,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684684988016</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="stream learn">
+      <created>1694164698303</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694164698303</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -512,7 +524,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="tornado sse" />
-    <option name="LAST_COMMIT_MESSAGE" value="tornado sse" />
+    <MESSAGE value="stream learn" />
+    <option name="LAST_COMMIT_MESSAGE" value="stream learn" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -599,11 +612,13 @@
     <SUITE FILE_PATH="coverage/learnpython$xor_cipher.coverage" NAME="xor_cipher Coverage Results" MODIFIED="1677773547444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ciphers" />
     <SUITE FILE_PATH="coverage/learnpython$chat_server.coverage" NAME="chat_server Coverage Results" MODIFIED="1675610464912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/create_tcp_and_up_sockets" />
     <SUITE FILE_PATH="coverage/learnpython$mat1.coverage" NAME="mat1 Coverage Results" MODIFIED="1692490600439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter1" />
+    <SUITE FILE_PATH="coverage/learnpython$create_data.coverage" NAME="create_data Coverage Results" MODIFIED="1698569170387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter1" />
     <SUITE FILE_PATH="coverage/learnpython$weighted_edge.coverage" NAME="weighted_edge Coverage Results" MODIFIED="1680535900936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph" />
     <SUITE FILE_PATH="coverage/learnpython$sock_http.coverage" NAME="sock_http Coverage Results" MODIFIED="1676300378279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter1" />
     <SUITE FILE_PATH="coverage/learnpython$llma_index_2.coverage" NAME="llma_index_2 Coverage Results" MODIFIED="1684683792491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter1" />
     <SUITE FILE_PATH="coverage/learnpython$tcp_client.coverage" NAME="tcp_client Coverage Results" MODIFIED="1675608864638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter1/create_tcp_and_up_sockets" />
     <SUITE FILE_PATH="coverage/learnpython$pack_server.coverage" NAME="pack_server Coverage Results" MODIFIED="1675872724928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/creating_a_multiplayer_game" />
+    <SUITE FILE_PATH="coverage/learnpython$otp_demo.coverage" NAME="otp_demo Coverage Results" MODIFIED="1695570347246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter1" />
     <SUITE FILE_PATH="coverage/learnpython$server__1_.coverage" NAME="server (1) Coverage Results" MODIFIED="1676215542130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/creating_an_advanced_gui_chatroom" />
     <SUITE FILE_PATH="coverage/learnpython$crypto.coverage" NAME="crypto Coverage Results" MODIFIED="1693496559876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter1" />
     <SUITE FILE_PATH="coverage/learnpython$headers_client.coverage" NAME="headers_client Coverage Results" MODIFIED="1676645465781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/creating_a_multiplayer_game" />
@@ -612,10 +627,12 @@
     <SUITE FILE_PATH="coverage/learnpython$fib.coverage" NAME="fib Coverage Results" MODIFIED="1677942690089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter1" />
     <SUITE FILE_PATH="coverage/learnpython$cuda.coverage" NAME="cuda Coverage Results" MODIFIED="1675608070900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter1" />
     <SUITE FILE_PATH="coverage/learnpython$pack_client.coverage" NAME="pack_client Coverage Results" MODIFIED="1675872737438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/creating_a_multiplayer_game" />
+    <SUITE FILE_PATH="coverage/learnpython$opencvtest2.coverage" NAME="opencvtest2 Coverage Results" MODIFIED="1699803758057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/opencvlearn" />
     <SUITE FILE_PATH="coverage/learnpython$thread_cls_intro.coverage" NAME="thread_cls_intro Coverage Results" MODIFIED="1676561653025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter1" />
     <SUITE FILE_PATH="coverage/learnpython$maze.coverage" NAME="maze Coverage Results" MODIFIED="1679240155543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/search" />
     <SUITE FILE_PATH="coverage/learnpython$chat_client.coverage" NAME="chat_client Coverage Results" MODIFIED="1675610479693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/create_tcp_and_up_sockets" />
     <SUITE FILE_PATH="coverage/learnpython$sse_server.coverage" NAME="sse_server Coverage Results" MODIFIED="1684685474042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter1" />
+    <SUITE FILE_PATH="coverage/learnpython$opencvtest3.coverage" NAME="opencvtest3 Coverage Results" MODIFIED="1699804056271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/opencvlearn" />
     <SUITE FILE_PATH="coverage/learnpython$unbreakable_enc.coverage" NAME="unbreakable_enc Coverage Results" MODIFIED="1677946179746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ciphers" />
     <SUITE FILE_PATH="coverage/learnpython$pickle_server.coverage" NAME="pickle_server Coverage Results" MODIFIED="1675697803124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/creating_an_advanced_gui_chatroom" />
     <SUITE FILE_PATH="coverage/learnpython$weighted_graph.coverage" NAME="weighted_graph Coverage Results" MODIFIED="1680537202315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph" />
@@ -634,12 +651,16 @@
     <SUITE FILE_PATH="coverage/learnpython$json_client.coverage" NAME="json_client Coverage Results" MODIFIED="1676645450998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/creating_an_advanced_gui_chatroom" />
     <SUITE FILE_PATH="coverage/learnpython$select_client.coverage" NAME="select_client Coverage Results" MODIFIED="1676303148110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/create_tcp_and_up_sockets" />
     <SUITE FILE_PATH="coverage/learnpython$gradio_test1.coverage" NAME="gradio_test1 Coverage Results" MODIFIED="1693320315521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter1" />
+    <SUITE FILE_PATH="coverage/learnpython$codes.coverage" NAME="codes Coverage Results" MODIFIED="1698541869586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter1" />
+    <SUITE FILE_PATH="coverage/learnpython$opencvtest1.coverage" NAME="opencvtest1 Coverage Results" MODIFIED="1698570265615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/opencvlearn" />
     <SUITE FILE_PATH="coverage/learnpython$json_server.coverage" NAME="json_server Coverage Results" MODIFIED="1676644897648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/creating_an_advanced_gui_chatroom" />
     <SUITE FILE_PATH="coverage/learnpython$receive_file.coverage" NAME="receive_file Coverage Results" MODIFIED="1677858287994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/creating_a_multiplayer_game" />
     <SUITE FILE_PATH="coverage/learnpython$tcp_server.coverage" NAME="tcp_server Coverage Results" MODIFIED="1675608840402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter1/create_tcp_and_up_sockets" />
     <SUITE FILE_PATH="coverage/learnpython$structs.coverage" NAME="structs Coverage Results" MODIFIED="1675870384308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter1" />
     <SUITE FILE_PATH="coverage/learnpython$tkinter_intro.coverage" NAME="tkinter_intro Coverage Results" MODIFIED="1675785205331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/creating_a_basic_gui_chatroom" />
+    <SUITE FILE_PATH="coverage/learnpython$mro.coverage" NAME="mro Coverage Results" MODIFIED="1696952234210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter1" />
     <SUITE FILE_PATH="coverage/learnpython$markov.coverage" NAME="markov Coverage Results" MODIFIED="1693926853744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter1" />
+    <SUITE FILE_PATH="coverage/learnpython$test_ext.coverage" NAME="test_ext Coverage Results" MODIFIED="1695222530337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cythondemo" />
     <SUITE FILE_PATH="coverage/learnpython$struct.coverage" NAME="struct Coverage Results" MODIFIED="1675869447528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter1" />
     <SUITE FILE_PATH="coverage/learnpython$select_server.coverage" NAME="select_server Coverage Results" MODIFIED="1676303142852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/create_tcp_and_up_sockets" />
     <SUITE FILE_PATH="coverage/learnpython$thread_fn_intro.coverage" NAME="thread_fn_intro Coverage Results" MODIFIED="1676303852406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter1" />
